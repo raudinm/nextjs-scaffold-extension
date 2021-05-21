@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Create Next.js Project",
+    "command": "npx create-next-app",
+    "commandName": "nextProject"
+  },
+  {
+    "title": "Install material-ui dependencies (Yarn)",
+    "command": "yarn add @material-ui/core @material-ui/icons @material-ui/lab",
+    "commandName": "material-ui"
+  }
+]
